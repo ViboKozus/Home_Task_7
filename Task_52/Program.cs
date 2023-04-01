@@ -31,4 +31,3 @@ for (int j = 0; j < arr.GetLength(1); j++)
     avarage = avarage / n;
     Console.Write(avarage + "; ");
 }
-
